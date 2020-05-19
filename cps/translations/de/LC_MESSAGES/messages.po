@@ -349,12 +349,12 @@ msgstr "Das hochgeladene Buch existiert evtl. schon in der Bibliothek: "
 #: cps/editbooks.py:709
 #, python-format
 msgid "Failed to Move File %(file)s: %(error)s"
-msgstr ""
+msgstr "Verschieben der Datei %(file)s fehlgeschlagen: %(error)s"
 
 #: cps/editbooks.py:723
 #, python-format
 msgid "Failed to Move Cover File %(file)s: %(error)s"
-msgstr ""
+msgstr "Verschieben der Cover-Datei fehlgeschlagen %(file)s: %(error)s"
 
 #: cps/editbooks.py:808
 #, python-format
